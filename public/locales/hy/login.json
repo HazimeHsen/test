@@ -1,0 +1,31 @@
+{
+    "seoTitle": "Մուտք գործեք Ձեր հաշիվով",
+    "title": "Մուտք գործեք Ձեր հաշիվով",
+    "emailAuth.email.label": "Էլ․ Փոստ",
+    "emailAuth.password.label": "Գաղտնաբառ",
+    "emailAuth.submit.label": "Մուտք գործել",
+    "emailAuth.email.blank.text": "Էլ․ Փոստը պարտադի՛ր է",
+    "emailAuth.password.blank.text": "Գաղտնաբառը պարտադի՛ր է",
+
+    "googleAuth.submit.label": "Մուտք գործել Google-ով",
+    "facebookAuth.submit.label": "Մուտք գործել Facebook-ով",
+
+    "or.text": "կամ",
+    "phone.title": "Մուտք գործեք Ձեր հեռախոսահամարով",
+    "phone.placeholder": "Հեռ. համար",
+    "submit.label": "Ներկայացնել",
+    "phoneAuth.blank.text": "Հեռախոսահամարը պարտադի՛ր է",
+    "phoneAuth.invalidNumber.text": "Հեռախոսահամարն անվավե՛ր է",
+
+    "otp.title": "Հաստատման Կոդ",
+    "otp.subtitle": "Մուտքագրեք Ձեր ստացած կոդը՝",
+
+    "agreement.text": "Մուտք գործելով՝ դուք համաձայնում եք մեր <a class=\"underline\" href=\"https://mibio.am/hy/policies/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Ծառայությունների Պայմաններ</a> և <a class=\"underline\" href=\"https://mibio.am/hy/policies/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Գաղտնիության Քաղաքականություն</a>:",
+    "noAccount.text": "Հաշիվ չունե՞ք: ",
+    "noAccount.link": "Գրանցվեք այստեղ",
+    "forgotPassword.link": "Մոռացե՞լ եք Ձեր գաղտնաբառը",
+
+    "verifyEmail": "Ձեր էլ․ փոստը հաջողությամբ հաստատվել է:",
+    "unverifiedEmailState": "Ձեր էլ. փոստի հասցեն պետք է հաստատել, մենք Ձեր էլ. փոստին հղում ենք ուղարկել հաստատելու համար: Եթե այնտեղ չեք տեսնում, խնդրում ենք ստուգել Ձեր սպամի թղթապանակում:",
+    "passwordConfirmedState": "Ձեր գաղտնաբառը հաջողությամբ փոխվել է: Այժմ կարող եք մուտք գործել՝ օգտագործելով Ձեր նոր գաղտնաբառը:"
+}

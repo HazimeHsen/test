@@ -1,0 +1,9 @@
+.phone::-webkit-scrollbar {
+    display: none;
+  }
+  
+.phone {
+    overflow-y: auto;
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+  }

@@ -1,0 +1,31 @@
+{
+    "seoTitle": "Login to your account",
+    "title": "Login to your account",
+    "emailAuth.email.label": "Email",
+    "emailAuth.password.label": "Password",
+    "emailAuth.submit.label": "Login",
+    "emailAuth.email.blank.text": "Email is required",
+    "emailAuth.password.blank.text": "Password is required",
+
+    "googleAuth.submit.label": "Login with Google",
+    "facebookAuth.submit.label": "Login with Facebook",
+
+    "or.text": "or",
+    "phone.title": "Login with your phone number",
+    "phone.placeholder": "Phone number",
+    "submit.label": "Submit",
+    "phoneAuth.blank.text": "Phone number is required!",
+    "phoneAuth.invalidNumber.text": "Phone number is invalid!",
+
+    "otp.title": "Code Verification",
+    "otp.subtitle": "Enter the code you received at",
+
+    "agreement.text": "By signing in, you agree to our <a class=\"underline\" href=\"https://mibio.am/policies/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Service</a> & <a class=\"underline\" href=\"https://mibio.am/policies/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>.",
+    "noAccount.text": "Don't have an account? ",
+    "noAccount.link": "Register here",
+    "forgotPassword.link": "Forgot your password?",
+
+    "verifyEmail": "Your email has been successfully verified.",
+    "unverifiedEmailState": "Your email address needs to be verified, we have emailed you a link to verify it. If you don't see it there, please check in your spam folder.",
+    "passwordConfirmedState": "Your password has been successfully changed. You may now login using your new password."
+}

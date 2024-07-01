@@ -1,0 +1,19 @@
+{
+    "seoTitle": "Settings",
+
+    "changePassword.title": "Change Password",
+
+    "changePassword.currentPassword": "Enter current password",
+    "changePassword.currentPassword.blank.text": "Current password is required",
+
+    "changePassword.newPassword": "Create new password",
+    "changePassword.newPassword.blank.text": "New password is required",
+    "changePassword.newPassword.characters.text": "Password must be at least 8 characters long.",
+
+    "changePassword.confirmPassword": "Confirm new password",
+    "changePassword.confirmPassword.blank.text": "Confirming new password is required",
+    "changePassword.confirmPassword.mustMatch.text": "New and confirming password fields must match!",
+
+    "changePassword.submit": "Update Password",
+    "changePassword.success": "Your password has been changed successfully."
+}

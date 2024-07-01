@@ -1,0 +1,11 @@
+{
+  "404.seoTitle": "Page Not Found",
+  "404.title": "Page Not Found",
+  "404.page": "Oops! Page not found",
+  "404.card": "Get your own card",
+
+  "500.seoTitle": "Server Error",
+  "500.title": "Server Error",
+  "500.page": "Oops! Internal server error has occurred.",
+  "500.contact": "Contact Us"
+}

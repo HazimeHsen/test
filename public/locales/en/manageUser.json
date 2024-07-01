@@ -1,0 +1,13 @@
+{
+  "reset.seoTitle": "Reset Password",
+  "reset.title": "Reset Password",
+  "reset.subtitle": "Your new password must be at least 8 characters long.",
+  "reset.password.label": "Enter a new password",
+  "reset.blank.text": "Password is required",
+  "reset.characters.text": "Password must be at least 8 characters long.",
+  "reset.request.label": "Reset Password",
+
+  "verify.seoTitle": "Email Verification",
+  "verify.title": "Email Verification",
+  "verify.subtitle": "We are verifying your email, please wait."
+}

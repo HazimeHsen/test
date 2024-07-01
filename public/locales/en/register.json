@@ -1,0 +1,21 @@
+{
+    "seoTitle": "Create your account",
+    "title": "Create your account",
+    "subtitle": "Register to unlock the best of Mibio for FREE!",
+
+    "emailAuth.email.label": "Email",
+    "emailAuth.password.label": "Password",
+    "emailAuth.submit.label": "Create an account",
+    "emailAuth.email.blank.text": "Email is required",
+    "emailAuth.password.blank.text": "Password is required",
+    "emailAuth.password.characters.text": "Password must be at least 8 characters long.",
+    "emailAuth.successfullySent": "Your email address needs to be verified, we have emailed you a link to verify it. If you don't see it there, please check in your spam folder.",
+
+    "googleAuth.submit.label": "Sign up with Google",
+    "facebookAuth.submit.label": "Sign up with Facebook",
+
+    "agreement.text": "By registering, you agree to our <a class=\"underline\" href=\"https://mibio.am/policies/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Terms of Service</a> & <a class=\"underline\" href=\"https://mibio.am/policies/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>.",
+    "already.text": "Already have an account? ",
+    "already.link": "Login here",
+    "forgotPassword.link": "Forgot your password?"
+}

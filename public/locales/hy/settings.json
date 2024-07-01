@@ -1,0 +1,19 @@
+{
+  "seoTitle": "Կարգավորումներ",
+
+  "changePassword.title": "Փոխել Գաղտնաբառը",
+
+  "changePassword.currentPassword": "Մուտքագրեք ընթացիկ գաղտնաբառը",
+  "changePassword.currentPassword.blank.text": "Ընթացիկ գաղտնաբառը պարտադի՛ր է",
+
+  "changePassword.newPassword": "Ստեղծեք նոր գաղտնաբառ",
+  "changePassword.newPassword.blank.text": "Նոր գաղտնաբառը պարտադի՛ր է",
+  "changePassword.newPassword.characters.text": "Գաղտնաբառը պետք է լինի առնվազն 8 նիշ:",
+
+  "changePassword.confirmPassword": "Հաստատեք նոր գաղտնաբառը",
+  "changePassword.confirmPassword.blank.text": "Հաստատող նոր գաղտնաբառը պարտադի՛ր է",
+  "changePassword.confirmPassword.mustMatch.text": "Նոր և հաստատող գաղտնաբառի դաշտերը պետք է համապատասխանե՛ն:",
+
+  "changePassword.submit": "Թարմացնել Գաղտնաբառը",
+  "changePassword.success": "Ձեր գաղտնաբառը հաջողությամբ փոխվել է:"
+}

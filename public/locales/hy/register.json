@@ -1,0 +1,21 @@
+{
+    "seoTitle": "Ստեղծեք Ձեր հաշիվը",
+    "title": "Ստեղծեք Ձեր հաշիվը",
+    "subtitle": "Գրանցվեք Mibio-ի լավագույն տարբերակը բացելու համար ԱՆՎՃԱ՛Ր",
+
+    "emailAuth.email.label": "Էլ․ Փոստ",
+    "emailAuth.password.label": "Գաղտնաբառ",
+    "emailAuth.submit.label": "Ստեղծել հաշիվ",
+    "emailAuth.email.blank.text": "Էլ․ Փոստը պարտադի՛ր է",
+    "emailAuth.password.blank.text": "Գաղտնաբառը պարտադի՛ր է",
+    "emailAuth.password.characters.text": "Գաղտնաբառը պետք է լինի առնվազն 8 նիշ:",
+    "emailAuth.successfullySent": "Ձեր էլ. փոստի հասցեն պետք է հաստատել, մենք Ձեր էլ. փոստին հղում ենք ուղարկել հաստատելու համար: Եթե այնտեղ չեք տեսնում, խնդրում ենք ստուգել Ձեր սպամի թղթապանակում:",
+
+    "googleAuth.submit.label": "Գրանցվել Google-ով",
+    "facebookAuth.submit.label": "Գրանցվել Facebook-ով",
+
+    "agreement.text": "Գրանցում կատարելով Դուք համաձայնում եք մեր <a class=\"underline\" href=\"https://mibio.am/hy/policies/terms-of-service\" target=\"_blank\" rel=\"noopener noreferrer\">Ծառայությունների Պայմաններ</a> և <a class=\"underline\" href=\"https://mibio.am/hy/policies/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Գաղտնիության Քաղաքականություն</a>:",
+    "already.text": "Արդեն հաշիվ ունե՞ք: ",
+    "already.link": "Մուտք գործեք այստեղ",
+    "forgotPassword.link": "Մոռացե՞լ եք Ձեր գաղտնաբառը"
+}
